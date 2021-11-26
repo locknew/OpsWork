@@ -140,3 +140,5 @@ Hotkey:
     Markup Code appears between colons :EMOJICODE:
 
     :mask:
+
+    Edit: Supachok Jrirarojkul 632115041
